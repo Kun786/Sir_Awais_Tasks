@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="col" *ngFor="let data of _ShowCards">
+    <div class="card mb-4" style="width: 18rem;" >
+      <div class="card-body">
+        <button class="btn btn-outline-primary rounded-circle" (click)="SendDataToCharts(data.Name)">New</button>
+        <h6 class="text-center text-success">{{data.Name}}</h6><br>
+        <p class="card-title text-success text-center">New Accounts {{data.NewAccounts}}</p><br>
+        <p class="card-title text-success text-center">Verified Accounts {{data.VerifiedAccounts}}</p><br>
+        <p class="card-title text-success text-center">Registered Accounts {{data.RegisteredAccounts}}</p><br>
+        <br><br>
+        <p class="card-text text-warning">Last Login :{{data.Date}}</p>
+      </div>
+    </div>
+    <h5 class="text-dark text-center">{{data.Name}}</h5>
+    <i *ngIf="_StatusOne===1 || _StatusTwo===1 || _StatusThree===1 ||_StatusFour===1" class="fas fa-arrow-down text-info text-center"></i>
+  </div>
+</div>
+<br>
+<br>
+
+<app-bar-chart-component [ChartDataToSend]="_ChartDataToSend"></app-bar-chart-component>

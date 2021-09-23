@@ -1,0 +1,71 @@
+{
+  "users": {
+    "legateEmployee": {
+      "newAccountCreated": 0,
+      "totalVerifiedAccount": 0,
+      "totalRegisteredAccount": 0,
+      "totalNonVerifiedAccount": 0,
+      "latestUpdate": "2021-09-12T13:35:16.414+00:00",
+      "acccountsState": null
+    },
+    "legateUsers": {
+      "newAccountCreated": 2,
+      "totalVerifiedAccount": 1,
+      "totalRegisteredAccount": 3,
+      "totalNonVerifiedAccount": 2,
+      "latestUpdate": "2021-09-12T13:35:16.414+00:00",
+      "acccountsState": [
+        {
+          "email": "anupamkumar231@gmail.com",
+          "personId": "61391fa14becf90c60f3b6c5",
+          "otp": "Verified",
+          "token": null,
+          "verified": true,
+          "facilityId": "1001",
+          "startDate": null,
+          "endDate": null,
+          "createdBy": "anupam k",
+          "createdAt": "2021-09-08T20:40:02.039+00:00",
+          "createdReason": "Create Account",
+          "updatedBy": null,
+          "updatedAt": null,
+          "updatedReason": null
+        },
+        {
+          "email": "anupamkumar409@gmail.com",
+          "personId": "61398f31780fce1571480610",
+          "otp": "Not Verified",
+          "token": null,
+          "verified": false,
+          "facilityId": "1001",
+          "startDate": null,
+          "endDate": null,
+          "createdBy": "Ram  Bahadur",
+          "createdAt": "2021-09-09T04:36:01.953+00:00",
+          "createdReason": "Create Account",
+          "updatedBy": null,
+          "updatedAt": null,
+          "updatedReason": null
+        },
+        {
+          "email": "rbsingh4091@gmail.com",
+          "personId": "6139c191383d472a7a6d0233",
+          "otp": "Not Verified",
+          "token": null,
+          "verified": false,
+          "facilityId": "1002",
+          "startDate": null,
+          "endDate": null,
+          "createdBy": "Meena  Devi",
+          "createdAt": "2021-09-09T08:11:00.114+00:00",
+          "createdReason": "Create Account",
+          "updatedBy": null,
+          "updatedAt": null,
+          "updatedReason": null
+        }
+      ]
+    }
+  },
+  "tickets": [],
+  "notifications": []
+}

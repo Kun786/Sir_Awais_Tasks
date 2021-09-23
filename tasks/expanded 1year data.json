@@ -1,0 +1,385 @@
+{
+    "historicalData": {
+        "legateEmployee": [
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Mar 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Feb 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Sep 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Jun 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Apr 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Nov 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Jul 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Aug 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Oct 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Jan 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "May 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Dec 20",
+                "acccountsState": []
+            }
+        ],
+        "legateUsers": [
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 1,
+                "totalRegisteredAccount": 1,
+                "totalNonVerifiedAccount": 1,
+                "latestUpdate": "Mar 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c09",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-03-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Mar 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 1,
+                "totalRegisteredAccount": 1,
+                "totalNonVerifiedAccount": 1,
+                "latestUpdate": "Feb 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c09",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-02-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Feb 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 2,
+                "totalRegisteredAccount": 2,
+                "totalNonVerifiedAccount": 2,
+                "latestUpdate": "Sep 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar231@gmail.com",
+                        "personId": "613f97f1d8e1465feb193332",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-09-14T11:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Sep 21"
+                    },
+                    {
+                        "email": "anupamkumar231@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c07",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-09-14T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Sep 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 1,
+                "totalRegisteredAccount": 1,
+                "totalNonVerifiedAccount": 1,
+                "latestUpdate": "Jun 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c09",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-06-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Jun 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 1,
+                "totalRegisteredAccount": 1,
+                "totalNonVerifiedAccount": 1,
+                "latestUpdate": "Apr 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c09",
+                        "otp": null,
+                        "verified": true,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-04-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Apr 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Nov 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 1,
+                "totalRegisteredAccount": 1,
+                "totalNonVerifiedAccount": 1,
+                "latestUpdate": "Jul 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c19",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-07-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Jul 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 2,
+                "totalRegisteredAccount": 2,
+                "totalNonVerifiedAccount": 2,
+                "latestUpdate": "Aug 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar446@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c08",
+                        "otp": null,
+                        "verified": true,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-08-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Aug 21"
+                    },
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c09",
+                        "otp": null,
+                        "verified": true,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-08-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Aug 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "Oct 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 1,
+                "totalRegisteredAccount": 1,
+                "totalNonVerifiedAccount": 1,
+                "latestUpdate": "Jan 21",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c09",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2021-01-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Jan 21"
+                    }
+                ]
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 0,
+                "totalRegisteredAccount": 0,
+                "totalNonVerifiedAccount": 0,
+                "latestUpdate": "May 21",
+                "acccountsState": []
+            },
+            {
+                "newAccountCreated": 0,
+                "totalVerifiedAccount": 1,
+                "totalRegisteredAccount": 1,
+                "totalNonVerifiedAccount": 1,
+                "latestUpdate": "Dec 20",
+                "acccountsState": [
+                    {
+                        "email": "anupamkumar239@gmail.com",
+                        "personId": "614069fb8bc3ef05576e5c09",
+                        "otp": null,
+                        "verified": false,
+                        "facilityId": "1001",
+                        "startDate": null,
+                        "endDate": null,
+                        "createdBy": null,
+                        "createdAt": "2020-12-19T09:23:07.787+00:00",
+                        "createdReason": null,
+                        "updatedBy": null,
+                        "updatedAt": null,
+                        "updatedReason": null,
+                        "mappedCreatedDate": "Dec 20"
+                    }
+                ]
+            }
+        ]
+    }
+}
