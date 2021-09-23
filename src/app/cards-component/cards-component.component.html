@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="col-lg-3 col-md-3 col-sm-12 text-center" *ngFor="let data of _ShowCards">
+  <div class="col-lg-3 col-md-3 col-sm-12 text-center" *ngFor="let data of _ShowCards; let i=index">
     <div class="card mb-4" style="width: 18rem;">
       <div class="card-body">
         <button class="btn btn-outline-primary rounded-circle" (click)="SendDataToCharts(data.Name)">New</button>
@@ -12,7 +12,7 @@
       </div>
     </div>
     <h5 class="text-dark">{{data.Name}}</h5>
-    <i *ngIf="_StatusOne===1 || _StatusTwo===1 || _StatusThree===1 ||_StatusFour===1"
+    <i *ngIf="_Status===i"
       class="fas fa-arrow-down text-info text-center"></i>
   </div>
 </div>
